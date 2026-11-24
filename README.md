@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=CotalorrEE0000&show_icons=true&include_all_commits=true&theme=shadow_green)](https://github-stats-extended.vercel.app/api?username=CotalorrEE0000&show_icons=true&include_all_commits=true&theme=shadow_green)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=CotalorrEE0000&layout=donut&langs_count=8&theme=shadow_blue)](https://github-stats-extended.vercel.app/api/top-langs?username=CotalorrEE0000&layout=donut&langs_count=8&theme=shadow_blue)
