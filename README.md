@@ -1,4 +1,4 @@
-## Hi there 👋
+## Call me Kohta or Cota👋
 
 <!--
 **CotalorrEE0000/CotalorrEE0000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=CotalorrEE0000&show_icons=true&include_all_commits=true&theme=shadow_green)](https://github-stats-extended.vercel.app/api?username=CotalorrEE0000&show_icons=true&include_all_commits=true&theme=shadow_green)
